@@ -13,3 +13,7 @@ Open the folder in Android Studio
 Run the app!
 
 [XHAW5112 POE Group 7.pdf](https://github.com/user-attachments/files/17781455/XHAW5112.POE.Group.7.pdf)
+
+Video Walk Through Link
+
+https://youtu.be/vMtf_MtqyRY
